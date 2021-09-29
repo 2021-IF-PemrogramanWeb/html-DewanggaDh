@@ -2,26 +2,15 @@ body{background-color: rgb(103, 170, 39);}
 h1{color: rgb(199, 136, 42);}
 p{color:rgb(181, 162, 201);}
 
-a:link{
-    color: green;
-    background-color: transparent;
-    text-decoration: none;
-}
-
-a:visited{
-    color:pink;
-    background-color:transparent;
+a:link, a:visited{
+    background-color:red;
+    color:white;
+    pading:15px 25px;
+    text-align:center;
     text-decoration:none;
+    display:inline-block;
 }
 
-a:hover{
-    color:red;
-    background-color:transparent;
-    text-decoration:underline;
-}
-
-a:active{
-    color:yellow;
-    background-color:transparent;
-    text-decoration:underline;
+a:hover, a:active{
+    background-color:red;
 }
