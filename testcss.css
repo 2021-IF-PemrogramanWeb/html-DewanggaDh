@@ -20,4 +20,5 @@ table, th ,td{
     border-collapse:collapse;
     padding:15px;
     text-align:right;
+    border-spacing:5px;
 }
