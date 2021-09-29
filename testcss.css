@@ -14,3 +14,7 @@ a:link, a:visited{
 a:hover, a:active{
     background-color:red;
 }
+
+table, th ,td{
+    border:1px solid white;
+}
