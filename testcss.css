@@ -24,3 +24,8 @@ table, th ,td{
     /*border spacing berarti jarak antara
     tulisan dan garis table atau batasnya*/
 }
+
+#t01{
+    width:100%;
+    background-color: #f4e522;
+}
