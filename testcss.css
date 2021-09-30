@@ -21,4 +21,6 @@ table, th ,td{
     padding:15px;
     text-align:right;
     border-spacing:5px;
+    /*border spacing berarti jarak antara
+    tulisan dan garis table atau batasnya*/
 }
